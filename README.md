@@ -1,6 +1,6 @@
 # 🌱 Optimal Fertiliser Prediction using XGBoost Classifier
 
-# Demo link: https://optimal-fertilizer-prediction-model.streamlit.app
+### Demo link: https://optimal-fertilizer-prediction-model.streamlit.app
 
 ## 📌 Overview
 This project predicts the most suitable fertilizer for a given crop based on environmental and soil parameters using the **XGBoost Classifier**.  
